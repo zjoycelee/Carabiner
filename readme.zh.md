@@ -11,6 +11,8 @@
   - `totoro-ams.3mf`：多色龙猫模型的3MF文件。
 
 <img src="./assets/totoro.png" width="300" alt="龙猫登山扣" />
+<img src="./assets/totoro-real-shot1.jpg" width="300" alt="龙猫登山扣实拍" />
+<img src="./assets/totoro-real-shot2.jpg" width="300" alt="龙猫登山扣实拍" />
 
 ## 打印建议
 

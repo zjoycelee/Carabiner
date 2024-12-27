@@ -11,6 +11,8 @@ This repository provides 3D models for carabiners. To improve strength and durab
   - `totoro-ams.3mf`: 3MF file of the multi-color Totoro model.
 
 <img src="./assets/totoro.png" width="300" alt="Totoro Carabiner" />
+<img src="./assets/totoro-real-shot1.jpg" width="300" alt="Totoro Carabiner" />
+<img src="./assets/totoro-real-shot2.jpg" width="300" alt="Totoro Carabiner" />
 
 ## Printing Recommendations
 
