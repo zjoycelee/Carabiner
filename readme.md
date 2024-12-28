@@ -22,9 +22,9 @@ This repository provides 3D models for carabiners. To improve strength and durab
   - `Nekobasu.3mf`: 3MF file of the standard Neko Basu model.
   - `Nekobasu-ams.3mf`: 3MF file of the multi-color Neko Basu model.
 
-<img src="./assets/Nekobasu/Nekobasu.png" width="300" alt="Nekobasu Carabiner" />
-<img src="./assets/Nekobasu/Nekobasu-real-shot1.jpg" width="300" alt="Nekobasu Carabiner" />
-<img src="./assets/Nekobasu/Nekobasu-real-shot2.jpg" width="300" alt="Nekobasu Carabiner" />
+<img src="./assets/NekoBasu/nekobasu.png" width="300" alt="Nekobasu Carabiner" />
+<img src="./assets/NekoBasu/nekobasu-real-shot1.jpg" width="300" alt="Nekobasu Carabiner" />
+<img src="./assets/NekoBasu/nekobasu-real-shot2.jpg" width="300" alt="Nekobasu Carabiner" />
 
 ## Printing Recommendations
 

@@ -22,9 +22,9 @@
   - `Nekobasu.3mf`：标准猫巴士模型的3MF文件。
   - `Nekobasu-ams.3mf`：多色猫巴士模型的3MF文件。
 
-<img src="./assets/Nekobasu/Nekobasu.png" width="300" alt="猫巴士登山扣" />
-<img src="./assets/Nekobasu/Nekobasu-real-shot1.jpg" width="300" alt="猫巴士登山扣" />
-<img src="./assets/Nekobasu/Nekobasu-real-shot2.jpg" width="300" alt="猫巴士登山扣" />
+<img src="./assets/NekoBasu/nekobasu.png" width="300" alt="猫巴士登山扣" />
+<img src="./assets/NekoBasu/nekobasu-real-shot1.jpg" width="300" alt="猫巴士登山扣" />
+<img src="./assets/NekoBasu/nekobasu-real-shot2.jpg" width="300" alt="猫巴士登山扣" />
 
 ## 打印建议
 
