@@ -26,6 +26,16 @@
 <img src="./assets/NekoBasu/nekobasu-real-shot1.jpg" width="300" alt="猫巴士登山扣" />
 <img src="./assets/NekoBasu/nekobasu-real-shot2.jpg" width="300" alt="猫巴士登山扣" />
 
+- **卡西法**: 一款卡西法形状的登山扣3D模型.
+  - `Calcifer.stl`：标准单色模型，卡西法的基础部分。
+  - `Calcifer-eyes.stl`：标准单色模型，卡西法的眼睛部分。
+  - `Calcifer-ams.stl`：多色版本的卡西法登山扣模型。
+  - `Calcifer.3mf`：标准卡西法模型的3MF文件。
+  - `Calcifer-ams.3mf`：多色卡西法模型的3MF文件。
+
+<img src="./assets/Calcifer/calcifer.png" width="300" alt="卡西法登山扣" />
+<img src="./assets/Calcifer/calcifer-real-shot1.jpg" width="300" alt="卡西法登山扣" />
+
 ## 打印建议
 
 - **材料**：建议使用PETG材料进行打印，因为它比PLA更坚固耐用。PLA材料容易在承受压力时断裂，因此PETG是制作登山扣等功能性打印物品的更好选择。

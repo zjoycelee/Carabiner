@@ -26,6 +26,16 @@ This repository provides 3D models for carabiners. To improve strength and durab
 <img src="./assets/NekoBasu/nekobasu-real-shot1.jpg" width="300" alt="Nekobasu Carabiner" />
 <img src="./assets/NekoBasu/nekobasu-real-shot2.jpg" width="300" alt="Nekobasu Carabiner" />
 
+- **Calcifer Carabiner**: A 3D model of a carabiner shaped like Calcifer.
+  - `Calcifer.stl`: Standard single-color model, base part of Calcifer.
+  - `Calcifer-eyes.stl`: Standard single-color model, eyes part of Calcifer.
+  - `Calcifer-ams.stl`: Multi-color version of the Calcifer carabiner model.
+  - `Calcifer.3mf`: 3MF file of the standard Calcifer model.
+  - `Calcifer-ams.3mf`: 3MF file of the multi-color Calcifer model.
+
+<img src="./assets/Calcifer/calcifer.png" width="300" alt="Calcifer Carabiner" />
+<img src="./assets/Calcifer/calcifer-real-shot1.jpg" width="300" alt="Calcifer Carabiner" />
+
 ## Printing Recommendations
 
 - **Material**: PETG is recommended for printing as it is stronger and more durable than PLA. PLA is more prone to breaking under pressure, making PETG a better choice for functional prints like carabiners.
