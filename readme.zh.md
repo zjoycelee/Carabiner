@@ -36,6 +36,18 @@
 <img src="./assets/Calcifer/calcifer.png" width="300" alt="卡西法登山扣" />
 <img src="./assets/Calcifer/calcifer-real-shot1.jpg" width="300" alt="卡西法登山扣" />
 
+- **波妞**: 一款波妞形状的登山扣3D模型.
+  - `Ponyo-body.stl`：标准单色模型，波妞的身体部分。
+  - `Ponyo-eyes.stl`：标准单色模型，波妞的眼睛部分。
+  - `Ponyo-hair.stl`：标准单色模型，波妞的头发部分。
+  - `Ponyo-face.stl`：标准单色模型，波妞的脸部分。
+  - `Ponyo-ams.stl`：多色版本的波妞登山扣模型。
+  - `Ponyo-ams.3mf`：多色波妞模型的3MF文件。分了两盘，第一盘用了三个颜色（合并了眼睛和脸），第二盘使用了四个颜色。
+
+<img src="./assets/Ponyo/Ponyo.png" width="300" alt="波妞登山扣" />
+<img src="./assets/Ponyo/Ponyo-real-shot1.jpg" width="300" alt="波妞登山扣" />
+<img src="./assets/Ponyo/Ponyo-real-shot2.jpg" width="300" alt="波妞登山扣" />
+
 ## 打印建议
 
 - **材料**：建议使用PETG材料进行打印，因为它比PLA更坚固耐用。PLA材料容易在承受压力时断裂，因此PETG是制作登山扣等功能性打印物品的更好选择。
