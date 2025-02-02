@@ -36,6 +36,19 @@ This repository provides 3D models for carabiners. To improve strength and durab
 <img src="./assets/Calcifer/calcifer.png" width="300" alt="Calcifer Carabiner" />
 <img src="./assets/Calcifer/calcifer-real-shot1.jpg" width="300" alt="Calcifer Carabiner" />
 
+
+- **Ponyo Carabiner**: A 3D model of a carabiner shaped like Ponyo.
+  - `Ponyo-body.stl`：Standard single-color model, body part of Ponyo.。
+  - `Ponyo-eyes.stl`：Standard single-color model, eyes part of Ponyo.。
+  - `Ponyo-hair.stl`：Standard single-color model, hair part of Ponyo.。
+  - `Ponyo-face.stl`：Standard single-color model, face part of Ponyo.。
+  - `Ponyo-ams.stl`：Multi-color version of the Ponyo carabiner model.
+  - `Ponyo-ams.3mf`：3MF file of the multi-color Ponyo model, there are two plates, first one has three colors(the eyes and face use same one), second one has four colors.
+
+<img src="./assets/Ponyo/Ponyo.png" width="300" alt="Ponyo Carabiner" />
+<img src="./assets/Ponyo/Ponyo-real-shot1.jpg" width="300" alt="Ponyo Carabiner" />
+<img src="./assets/Ponyo/Ponyo-real-shot2.jpg" width="300" alt="Ponyo Carabiner" />
+
 ## Printing Recommendations
 
 - **Material**: PETG is recommended for printing as it is stronger and more durable than PLA. PLA is more prone to breaking under pressure, making PETG a better choice for functional prints like carabiners.
